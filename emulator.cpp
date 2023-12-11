@@ -1,7 +1,6 @@
 /**Authorship Claim**/
 /**Name: Sai Vardhan Vemulapalli**/
-/**Roll No.: 2001CS58**/
-/**Declaration of Authorship: I claim that the following code has been authored by me solely**/
+
 #include<bits/stdc++.h>
 #include <fstream>
 using namespace std;
